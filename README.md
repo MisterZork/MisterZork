@@ -2,9 +2,9 @@
 I am a student, trying to learn anything about computer and maybe getting a job there 😊👌
 
 My "Endgame" projects :
-  ## - 3D Voxel game (similar to Minecraft or Space Engineers)
-  ## - Creating a barebone CPU (waiting for materials and documentation on RISC-V)
-  ## - Login Authenticator (with Python)
+   - 3D Voxel game (similar to Minecraft or Space Engineers)
+   - Creating a barebone CPU (waiting for materials and documentation on RISC-V)
+   - Login Authenticator (with Python)
 
 <!--
 **MisterZork/MisterZork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
