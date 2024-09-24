@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am a student, trying to learn anything about computer and maybe getting a job there 😊👌
 
 <!--
 **MisterZork/MisterZork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
